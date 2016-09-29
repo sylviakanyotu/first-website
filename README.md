@@ -1,7 +1,8 @@
 ## First Website in training
 
 **Author**
--Sylviakanyotu , [GOluoch](https://github.com/GOluoch) 
+-Sylviakanyotu 
+-[GOluoch](https://github.com/GOluoch) 
 
 **Technologies Used**
 -HTML
